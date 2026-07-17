@@ -14,13 +14,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,aws,git,github,vscode,linux" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 
