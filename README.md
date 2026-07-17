@@ -23,9 +23,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vidhyashree027&theme=radical" alt="Vidhyashree027's streak stats" height="165"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vidhyashree027&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
 
 ---
 
